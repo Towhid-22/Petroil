@@ -1,0 +1,10 @@
+.image_items{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+.images{
+  width: 458px;
+  height: 426px;
+}

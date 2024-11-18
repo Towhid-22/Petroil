@@ -1,0 +1,25 @@
+#banner{
+  background: url("banner.png") no-repeat center;
+};
+.banner .banner_text{
+  font-size: 30px;
+}
+
+.banner_text{
+  font-size: 64px;
+  width: 842px;
+  margin-bottom: 31px;
+  font-weight: 700;
+  color: #fff;
+}
+.banner{
+  padding: 257px 0;
+}
+.banner button{
+  background: red;
+  padding: 13px 40px;
+  border: 1px solid #fff;
+  color: #fff;
+  cursor: pointer;
+}
+

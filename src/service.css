@@ -1,0 +1,48 @@
+.items{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.service_text{
+  width: 50%;
+  text-align: center;
+}
+.text{
+  padding-left: 190px;
+}
+.service_text h2{
+  font-size: 64px;
+  font-weight: 700;
+  color: #000;
+}
+.service_text p{
+  font-size: 16px;
+  font-weight: 500;
+  color: #6C6C6C;
+  width: 405px;
+  margin: 0 auto;
+  text-align: left;
+}
+.serviceImgOne{
+  background: url("./Services1.png") no-repeat center;
+  width: 50%;
+  padding: 151px 0px;
+}
+.service_item{
+  padding-left: 116px;
+}
+.serviceImgOne h3{
+  font-size: 36px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.serviceBtn{
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  background: #F40404;
+  padding: 14px 30px;
+  border: none;
+}
