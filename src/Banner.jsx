@@ -10,7 +10,7 @@ function Banner() {
             <h1 className="banner_text">
               We exist since 1975 on the oil and gas industry.
             </h1>
-            <button>LEARN MORE</button>
+            <button className="btn btn-danger">LEARN MORE</button>
           </div>
         </div>
       </div>
